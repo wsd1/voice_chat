@@ -1,5 +1,18 @@
 # JavaScript实现语音聊天
 
+## DY标注
+
+亲测可用，
+git clone ...
+npm i
+node server.js
+即可
+
+开两个页面，访问 https://localhost:4000/
+
+
+
+
 ## 描述
 
 程序在 [iamshaunjp](https://github.com/iamshaunjp/websockets-playlist/tree/lesson-5) 的群聊功能基础上利用webRTC技术，添加了语音群聊功能，在其他人键盘输入时，会出现类似微信的对方正在输入字样。demo：<https://biptedu.cn:4000/>
